@@ -1,8 +1,8 @@
-# HackBench
+# ShellHacksBench
 
 > **Empirical, evidence-based hackathon project evaluation and pitch diagnostic engine.**
 
-HackBench benchmarks your hackathon project against **over 700 real historical submissions, winners, and prize criteria** before you pitch to judges.
+ShellHacksBench benchmarks your hackathon project against **over 700 real historical submissions, winners, and prize criteria** before you pitch to judges.
 
 ---
 
